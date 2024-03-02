@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Inheritance Abstract Class and Interface&apos; to &apos;Exercise 1&apos;&#x0D;&#x0A;- Original element: &apos;Inheritance Abstract Class and Interface&apos;&#x0D;&#x0A;- Renamed element: &apos;Inheritance Abstract Class and Interface&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Inheritance Abstract Class and Interface&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Inheritance Abstract Class and Interface" name="Exercise 1" references="true" stamp="1709175786042" version="1.0"/>
+</session>
